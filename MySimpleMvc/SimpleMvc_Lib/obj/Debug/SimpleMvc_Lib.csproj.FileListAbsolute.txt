@@ -1,0 +1,4 @@
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_Lib\bin\Debug\SimpleMvc_Lib.dll
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_Lib\bin\Debug\SimpleMvc_Lib.pdb
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_Lib\obj\Debug\SimpleMvc_Lib.dll
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_Lib\obj\Debug\SimpleMvc_Lib.pdb
