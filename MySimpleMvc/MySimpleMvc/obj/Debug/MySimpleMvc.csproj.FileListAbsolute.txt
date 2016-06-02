@@ -1,0 +1,4 @@
+E:\study\mypro\MySimpleMvc\MySimpleMvc\bin\MySimpleMvc.dll
+E:\study\mypro\MySimpleMvc\MySimpleMvc\bin\MySimpleMvc.pdb
+E:\study\mypro\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.dll
+E:\study\mypro\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.pdb
