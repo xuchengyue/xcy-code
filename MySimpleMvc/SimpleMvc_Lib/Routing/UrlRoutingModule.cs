@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimpleMvc_Lib.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Web;
 
@@ -18,8 +19,18 @@ namespace SimpleMvc_Lib.Routing
             var context = application.Context;
 
             string path = context.Request.AppRelativeCurrentExecutionFilePath.Substring(2);
-            IDictionary<string, string> route = new Dictionary<string, string>();
-            //route = 
+            IDictionary<string, string> routeData = new Dictionary<string, string>();
+            var route = RouteTable.MatchRoutes(path, out routeData);
+            if (route == null)
+            {
+                throw new HttpException("404 not found!");
+            }
+            if (!routeData.ContainsKey("{controller}"))
+            {
+                throw new HttpException("404 not found!");
+            }
+
+            context.RemapHandler(new MvcHandler(routeData));
         }
 
         public void Dispose()
