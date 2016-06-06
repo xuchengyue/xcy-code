@@ -4,6 +4,5 @@ E:\study\mypro\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.dll
 E:\study\mypro\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.pdb
 E:\study\mypro\xcy-code\MySimpleMvc\MySimpleMvc\bin\MySimpleMvc.dll
 E:\study\mypro\xcy-code\MySimpleMvc\MySimpleMvc\bin\MySimpleMvc.pdb
-E:\study\mypro\xcy-code\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.csprojResolveAssemblyReference.cache
 E:\study\mypro\xcy-code\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.dll
 E:\study\mypro\xcy-code\MySimpleMvc\MySimpleMvc\obj\Debug\MySimpleMvc.pdb

@@ -1,0 +1,7 @@
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\bin\SimpleMvc_App.dll
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\bin\SimpleMvc_App.pdb
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\obj\Debug\SimpleMvc_App.csprojResolveAssemblyReference.cache
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\obj\Debug\SimpleMvc_App.dll
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\obj\Debug\SimpleMvc_App.pdb
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\bin\SimpleMvc_Lib.dll
+E:\study\mypro\xcy-code\MySimpleMvc\SimpleMvc_App\bin\SimpleMvc_Lib.pdb

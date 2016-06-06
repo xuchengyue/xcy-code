@@ -10,6 +10,11 @@ namespace SimpleMvc_Lib.Routing
             set;
         }
 
+        static RouteTable()
+        {
+            routeList = new List<Route>();
+        }
+
         public static Route MatchRoutes(string requestUrl, out IDictionary<string, string> routeData)
         {
             routeData = null;

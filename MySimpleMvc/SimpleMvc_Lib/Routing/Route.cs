@@ -30,7 +30,7 @@ namespace SimpleMvc_Lib.Routing
             var requestItems = requestUrl.Split('/');
             var urlTemplateItems = UrlTemplate.Split('/');
 
-            if (requestItems.Length != UrlTemplate.Length)
+            if (requestItems.Length != urlTemplateItems.Length)
             {
                 return false;
             }

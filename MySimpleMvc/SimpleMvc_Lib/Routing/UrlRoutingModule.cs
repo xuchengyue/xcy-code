@@ -25,7 +25,7 @@ namespace SimpleMvc_Lib.Routing
             {
                 throw new HttpException("404 not found!");
             }
-            if (!routeData.ContainsKey("{controller}"))
+            if (!routeData.ContainsKey("controller"))
             {
                 throw new HttpException("404 not found!");
             }
